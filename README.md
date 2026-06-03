@@ -70,4 +70,9 @@ To prevent data-heavy input/output cycles from locking or micro-stuttering the p
 
 ## 📦 Local Installation & Setup Guide
 
-Ensure
+Ensure your development environment has your system dependencies updated before launching the script execution paths:
+
+### Step 1: Install Premium Component Packs
+Open your terminal window console inside your `task3_calendar_app` directory and install the third-party framework wrappers:
+```bash
+pip install customtkinter tkcalendar
